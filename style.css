@@ -1,0 +1,111 @@
+html,
+body {
+  margin: 0;
+  font-family: "Karla", sans-serif;
+}
+
+/*typography*/
+
+h1,
+h2 {
+  text-align: left;
+}
+
+h1,
+h2,
+h4 {
+  color: white;
+  margin: 0;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  margin: 35px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 100px;
+}
+
+.logo-dot {
+  font-size: 50px;
+  margin: 0;
+}
+
+/* layout */
+
+header {
+  background-color: #67595e;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  width: 370px;
+  gap: 15px;
+  padding: 10px 0 0 0;
+}
+
+.controls-container {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 0px auto;
+}
+
+/* controls */
+
+.tag-radios {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #bcbcbc;
+  border-radius: 5px;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #bcbcbc;
+  padding: 4px 8px;
+}
+
+label {
+  font-size: 14px;
+  padding: 3px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.highlight {
+  background-color: #fff0ee;
+  color: #bd301d;
+  font-weight: bold;
+}
+
+.radio:last-child {
+  border-bottom: 0;
+}
+
+input[type="radio"] {
+  cursor: pointer;
+}
+
+.create-list-btn {
+  background-color: #67595e;
+  color: white;
+  padding: 15px 19px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  margin-top: 20px;
+}
