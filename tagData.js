@@ -1,110 +1,110 @@
 export const tagData = [
   {
-    tagItems: "nappies",
+    tagItems: ["nappies"],
     category: "changing",
   },
   {
-    tagItems: "wipes",
+    tagItems: ["wipes"],
     category: "changing",
   },
   {
-    tagItems: "change mat",
+    tagItems: ["change mat"],
     category: "changing",
   },
   {
-    tagItems: "nappy bags",
+    tagItems: ["nappy bags"],
     category: "changing",
   },
   {
-    tagItems: "nappy cream",
+    tagItems: ["nappy cream"],
     category: "changing",
   },
   {
-    tagItems: "sanitiser",
+    tagItems: ["sanitiser"],
     category: "changing",
   },
   {
-    tagItems: "water",
+    tagItems: ["water"],
     category: "feeding",
   },
   {
-    tagItems: "formula",
+    tagItems: ["formula"],
     category: "feeding",
   },
   {
-    tagItems: "bottle",
+    tagItems: ["bottle"],
     category: "feeding",
   },
   {
-    tagItems: "snacks",
+    tagItems: ["snacks"],
     category: "feeding",
   },
   {
-    tagItems: "bib",
+    tagItems: ["bib"],
     category: "feeding",
   },
   {
-    tagItems: "cloth",
+    tagItems: ["cloth"],
     category: "feeding",
   },
   {
-    tagItems: "keys",
+    tagItems: ["keys"],
     category: "parent",
   },
   {
-    tagItems: "phone",
+    tagItems: ["phone"],
     category: "parent",
   },
   {
-    tagItems: "wallet",
+    tagItems: ["wallet"],
     category: "parent",
   },
   {
-    tagItems: "chapstick",
+    tagItems: ["chapstick"],
     category: "parent",
   },
   {
-    tagItems: "sunglasses",
+    tagItems: ["sunglasses"],
     category: "parent",
   },
   {
-    tagItems: "hat",
+    tagItems: ["hat"],
     category: "parent",
   },
   {
-    tagItems: "sunscreen",
+    tagItems: ["sunscreen"],
     category: "clothing",
   },
   {
-    tagItems: "wrap",
+    tagItems: ["wrap"],
     category: "clothing",
   },
   {
-    tagItems: "blanket",
+    tagItems: ["blanket"],
     category: "clothing",
   },
   {
-    tagItems: "spare clothes",
+    tagItems: ["spare clothes"],
     category: "clothing",
   },
   {
-    tagItems: "dummy",
+    tagItems: ["dummy"],
     category: "soothing/play",
   },
   {
-    tagItems: "teether",
+    tagItems: ["teether"],
     category: "soothing/play",
   },
   {
-    tagItems: "toy",
+    tagItems: ["toy"],
     category: "soothing/play",
   },
   {
-    tagItems: "first aid",
+    tagItems: ["first aid"],
     category: "other",
   },
   {
-    tagItems: "nail file",
+    tagItems: ["nail file"],
     category: "other",
   },
 ];
